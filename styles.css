@@ -1,6 +1,16 @@
 
 /* Your CSS Code here. */
+th,td{
+    border:1px solid black;
+    padding-right:50px;
+
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    text-align:left;
+}
 .one{
-    padding:2px;
-    margin:10px;
+    text-align:right;
 }
